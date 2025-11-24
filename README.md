@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm SiteAppCreators!
 
-<!--
-**SiteAppCreators/SiteAppCreators** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer and designer based in **Belgium**. I love creating sleek, functional web applications and bringing designs to life. 🚀  
 
-Here are some ideas to get you started:
+![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pzY3dsNDQxMWZnYTF3OTF2cmo3emJvcWJ4d3dmdmdwaWt1eWQzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pRUwExe48O8ClnltVL/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+- **Frontend:** React  
+- **Backend:** Python, Symfony  
+- **Design & UI/UX:** Web Design, Responsive Layouts  
+
+---
+
+## 🌟 Featured Project
+Check out one of my favorite projects:  
+[🍪 cookie-consent-v2](https://github.com/SiteAppCreators/cookie-consent-v2) --> A modern and flexible cookie consent tool for websites.  
+
+---
+
+## 📫 Connect with me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61555331733166)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siteappcreators/)  
+
+---
+
+✨ Always coding, designing, and learning something new!
