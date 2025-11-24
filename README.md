@@ -2,7 +2,7 @@
 
 I'm a web developer and designer based in **Belgium**. I love creating sleek, functional web applications and bringing designs to life. 🚀  
 
-![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pzY3dsNDQxMWZnYTF3OTF2cmo3emJvcWJ4d3dmdmdwaWt1eWQzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pRUwExe48O8ClnltVL/giphy.gif)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pzY3dsNDQxMWZnYTF3OTF2cmo3emJvcWJ4d3dmdmdwaWt1eWQzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pRUwExe48O8ClnltVL/giphy.gif" width="256"/>
 
 ---
 
